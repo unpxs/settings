@@ -70,14 +70,14 @@ schtasks /Create /SC ONLOGON /TN "pyStart" /TR "'C:\Program Files\AutoHotkey\Aut
 ```
 
 ## 개별 설치
-- UpNote [install 7.6.2.0v](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb29CcEhsY1dHZi1rY0VVS1RaOEQxX2dKZ3NRenc_ZT1YRmdtTko/root/content)
+- UpNote: [install 7.6.2.0v](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb29CcEhsY1dHZi1rY0VVS1RaOEQxX2dKZ3NRenc_ZT1YRmdtTko/root/content)
 - https://todoist.com/ko/downloads/windows
 - https://wrtn.ai/
 - https://cursor.sh/
 - https://caret.io/
 - https://www.deepl.com/ko/app/
 - https://www.figma.com/
-- https://minbrowser.org/
+- [min](https://minbrowser.org/): [install 1.30.0v](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb29CcEhsY1dHZi1sSmN2Sk5VTGFFTEI4VG9vWkE_ZT1MbjV4Yks/root/content)
 	- 실시간 보호 해제
 - https://www.canva.com/download/windows/
 - https://sparkmailapp.com/download
