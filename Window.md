@@ -134,4 +134,4 @@ https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Hack.zip
 
 
 ## Win + L OFF
-[.reg Download](https://share.1tz.in/2023/10/win_L_Lock.reg)
+[.reg Download](https://dl.1tz.in/2023/12/win_L_Lock.reg)
